@@ -70,7 +70,7 @@ Converting invoice.pdf to invoice.csv...
 
 ## 📧 Support
 
-Issues? Contact: pandora-support@yourdomain.com
+Issues? Contact: Pandora_jk@outlook.com
 
 ---
 
