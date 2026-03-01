@@ -77,3 +77,4 @@ Issues? Contact: Pandora_jk@outlook.com
 **Author:** Pandora Automation  
 **GitHub:** https://github.com/Pandor-jk/automation-scripts  
 **Version:** 1.0
+# Updated for username change to Pandora-jk
